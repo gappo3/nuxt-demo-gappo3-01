@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "admin01",
+    "password": "G@p311682",
+    "database": "oshi_db",
+    "host": "128.199.145.137",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "admin01",
+    "password": "G@p311682",
+    "database": "oshi_db",
+    "host": "128.199.145.137",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "admin01",
+    "password": "G@p311682",
+    "database": "oshi_db",
+    "host": "128.199.145.137",
+    "dialect": "mysql"
+  }
+}
